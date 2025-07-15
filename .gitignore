@@ -1,0 +1,26 @@
+
+.ipynb_checkpoints/
+*.ipynb
+
+.venv/
+
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+.DS_Store
+Thumbs.db
+
+
+.idea/
+
+
+*.csv
+
+# requirements.txt (если не используешь)
+requirements
+
+
+*.log
+*.tmp
